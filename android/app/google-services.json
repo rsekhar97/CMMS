@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "353372722277",
+    "project_id": "react-native-cmms",
+    "storage_bucket": "react-native-cmms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353372722277:android:124660bacc2aa7b9b0a28c",
+        "android_client_info": {
+          "package_name": "com.evantage.cmms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353372722277-vrcm1mrf0kj1ml58o54iqeaj6i1tlum8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXgGf60CYZiMrsghUx_jL4IeLL2y49u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353372722277-vrcm1mrf0kj1ml58o54iqeaj6i1tlum8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353372722277-fn6f00qvsahdls034mud4cbhcignc57u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.CMMS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353372722277:android:b35aa4a71e957c49b0a28c",
+        "android_client_info": {
+          "package_name": "com.evantage.cmmshybrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353372722277-vrcm1mrf0kj1ml58o54iqeaj6i1tlum8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXgGf60CYZiMrsghUx_jL4IeLL2y49u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353372722277-vrcm1mrf0kj1ml58o54iqeaj6i1tlum8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353372722277-fn6f00qvsahdls034mud4cbhcignc57u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.CMMS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
